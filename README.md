@@ -1,5 +1,17 @@
 # 💫 About Me:
-Dedicated and detail-oriented professional with knowledge in Manual Testing, Automation<br>Testing, and Data Analysis. Eager to apply technical skills and problem-solving abilities to<br>ensure software quality and data-driven decision-making.
+💡 Data Analyst | Power BI & Excel Enthusiast
+📊 Passionate about turning raw data into actionable insights
+🔍 Skilled in:
+
+Data Visualization (Power BI dashboards, interactive reports)
+
+Data Analysis & Modeling (Excel advanced formulas, pivot tables, Power Query, DAX)
+
+ETL & Data Cleaning (transforming messy data into clear stories)
+
+Business Intelligence (KPIs, performance tracking, decision support)
+
+🚀 I enjoy solving problems with data, building automated reports, and helping organizations make data-driven decisions.
 
 
 ## 🌐 Socials:
